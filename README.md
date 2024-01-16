@@ -6,4 +6,4 @@
 <img src="https://github.com/lucasmiguelabreu/easy-shopping/blob/main/img-site/img-deshtop.png?raw=true" alt="imegem-desktop"/>
 <br>
 
-< img src="https://github.com/lucasmiguelabreu/easy-shopping/blob/main/img-site/img-tablet.png?raw=true" alt="imagem-tablet"/>
+<img src="https://github.com/lucasmiguelabreu/easy-shopping/blob/main/img-site/img-tablet.png?raw=true" alt="imagem-tablet"/>
